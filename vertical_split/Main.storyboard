@@ -698,6 +698,9 @@
                             <outlet property="delegate" destination="B8D-0N-5wS" id="98r-iN-zZc"/>
                         </connections>
                     </window>
+                    <connections>
+                        <segue destination="h4p-IS-E5Q" kind="relationship" relationship="window.shadowedContentViewController" id="ieU-2H-Wzq"/>
+                    </connections>
                 </windowController>
                 <customObject id="Oky-zY-oP4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -708,8 +711,8 @@
             <objects>
                 <tabViewController selectedTabViewItemIndex="0" tabStyle="toolbar" id="h4p-IS-E5Q" sceneMemberID="viewController">
                     <tabViewItems>
-                        <tabViewItem label="Image1" identifier="" id="xSQ-UF-RyP"/>
-                        <tabViewItem identifier="" id="fve-F0-T1W"/>
+                        <tabViewItem label="Image1" identifier="" image="Image1" id="xSQ-UF-RyP"/>
+                        <tabViewItem label="Image 2" identifier="" image="Image2" id="fve-F0-T1W"/>
                     </tabViewItems>
                     <tabView key="tabView" type="noTabsNoBorder" id="cMG-Gs-sUU">
                         <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
@@ -930,4 +933,11 @@
             <point key="canvasLocation" x="-181" y="1822"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="ieU-2H-Wzq"/>
+    </inferredMetricsTieBreakers>
+    <resources>
+        <image name="Image1" width="579" height="530"/>
+        <image name="Image2" width="309" height="247.5"/>
+    </resources>
 </document>

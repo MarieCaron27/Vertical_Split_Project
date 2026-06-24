@@ -8,21 +8,6 @@
 	<dict/>
 	<key>com.apple.ibtool.document.warnings</key>
 	<dict>
-		<key>B8D-0N-5wS</key>
-		<array>
-			<dict>
-				<key>affected-objects</key>
-				<array>
-					<string>B8D-0N-5wS</string>
-				</array>
-				<key>message</key>
-				<string>Window Controller requires a content view controller.</string>
-				<key>type</key>
-				<string>IBIssueTypeUnsupportedConfiguration</string>
-				<key>type-value</key>
-				<integer>9</integer>
-			</dict>
-		</array>
 		<key>dcr-XR-BZY</key>
 		<array>
 			<dict>
