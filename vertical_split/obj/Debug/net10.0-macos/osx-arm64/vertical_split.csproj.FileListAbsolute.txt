@@ -220,3 +220,4 @@
 /Users/marie/RiderProjects/vertical_split/vertical_split/obj/Debug/net10.0-macos/osx-arm64/vertical_split.pdb
 /Users/marie/RiderProjects/vertical_split/vertical_split/obj/Debug/net10.0-macos/osx-arm64/vertical_split.genruntimeconfig.cache
 /Users/marie/RiderProjects/vertical_split/vertical_split/obj/Debug/net10.0-macos/osx-arm64/ref/vertical_split.dll
+/Users/marie/RiderProjects/vertical_split/vertical_split/obj/Debug/net10.0-macos/osx-arm64/vertical_split.sourcelink.json
