@@ -7,80 +7,80 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AABC25000000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2009D4D00000000000000000 /* Cocoa.framework */; };
-		20587BC00000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 231C5A200000000000000000 /* Foundation.framework */; };
-		3BFF2B800000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BF888000000000000000000 /* Assets.xcassets */; };
-		3BBCC8100000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 19A308E00000000000000000 /* Entitlements.plist */; };
-		26BB4FE00000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1C95CF400000000000000000 /* Info.plist */; };
-		144498000000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6695B000000000000000000 /* Main.storyboard */; };
-		269B43600000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B755EA00000000000000000 /* AppDelegate.m */; };
-		372054100000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3022F4A00000000000000000 /* ViewController.m */; };
+		17612B700000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 126A87500000000000000000 /* Cocoa.framework */; };
+		25BEC2100000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13B4D2C00000000000000000 /* Foundation.framework */; };
+		315B68F00000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C36B0B00000000000000000 /* Assets.xcassets */; };
+		1DEC36A00000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = D4DEBB000000000000000000 /* Entitlements.plist */; };
+		37BD49900000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35A796400000000000000000 /* Info.plist */; };
+		22E448500000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A068AD00000000000000000 /* Main.storyboard */; };
+		A3AE15000000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C11EBE00000000000000000 /* AppDelegate.m */; };
+		3CA14B100000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21ABA4000000000000000000 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		313A9A000000000000000000 /* vertical_split.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "vertical_split.app"; path = "vertical_split.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2009D4D00000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
-		231C5A200000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
-		1BF888000000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
-		19A308E00000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
-		1C95CF400000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
-		B6695B000000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
-		3B0F6A300000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
-		1B755EA00000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
-		138ABBC00000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
-		3022F4A00000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		2F08C4200000000000000000 /* vertical_split.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "vertical_split.app"; path = "vertical_split.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		126A87500000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
+		13B4D2C00000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		3C36B0B00000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		D4DEBB000000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		35A796400000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		3A068AD00000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		274EE5A00000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		1C11EBE00000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		21C613000000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		21ABA4000000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2FE099C00000000000000000 /* Frameworks */ = {
+		2FF6AB500000000000000000 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AABC25000000000000000000 /* Cocoa.framework in Frameworks */,
-				20587BC00000000000000000 /* Foundation.framework in Frameworks */,
+				17612B700000000000000000 /* Cocoa.framework in Frameworks */,
+				25BEC2100000000000000000 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2EE567C00000000000000000 = {
+		2FAC06200000000000000000 = {
 			isa = PBXGroup;
 			children = (
-				2610A5D00000000000000000 /* vertical_split */,
-				1695D4800000000000000000 /* Frameworks */,
-				B4478F000000000000000000 /* Products */,
+				2D0C37900000000000000000 /* vertical_split */,
+				156DF4100000000000000000 /* Frameworks */,
+				DD94C0000000000000000000 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B4478F000000000000000000 /* Products */ = {
+		DD94C0000000000000000000 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				313A9A000000000000000000 /* vertical_split.app */,
+				2F08C4200000000000000000 /* vertical_split.app */,
 			);
 			name = "Products";
 			sourceTree = "<group>";
 		};
-		1695D4800000000000000000 /* Frameworks */ = {
+		156DF4100000000000000000 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2009D4D00000000000000000 /* Cocoa.framework */,
-				231C5A200000000000000000 /* Foundation.framework */,
+				126A87500000000000000000 /* Cocoa.framework */,
+				13B4D2C00000000000000000 /* Foundation.framework */,
 			);
 			name = "Frameworks";
 			sourceTree = "<group>";
 		};
-		2610A5D00000000000000000 /* vertical_split */ = {
+		2D0C37900000000000000000 /* vertical_split */ = {
 			isa = PBXGroup;
 			children = (
-				3B0F6A300000000000000000 /* AppDelegate.h */,
-				1B755EA00000000000000000 /* AppDelegate.m */,
-				1BF888000000000000000000 /* Assets.xcassets */,
-				19A308E00000000000000000 /* Entitlements.plist */,
-				1C95CF400000000000000000 /* Info.plist */,
-				B6695B000000000000000000 /* Main.storyboard */,
-				138ABBC00000000000000000 /* ViewController.h */,
-				3022F4A00000000000000000 /* ViewController.m */,
+				274EE5A00000000000000000 /* AppDelegate.h */,
+				1C11EBE00000000000000000 /* AppDelegate.m */,
+				3C36B0B00000000000000000 /* Assets.xcassets */,
+				D4DEBB000000000000000000 /* Entitlements.plist */,
+				35A796400000000000000000 /* Info.plist */,
+				3A068AD00000000000000000 /* Main.storyboard */,
+				21C613000000000000000000 /* ViewController.h */,
+				21ABA4000000000000000000 /* ViewController.m */,
 			);
 			name = "vertical_split";
 			sourceTree = "<group>";
@@ -88,13 +88,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		256840900000000000000000 /* vertical_split */ = {
+		7CA3B4000000000000000000 /* vertical_split */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 10AA45900000000000000000 /* Build configuration list for PBXNativeTarget "vertical_split" */;
+			buildConfigurationList = 61C159000000000000000000 /* Build configuration list for PBXNativeTarget "vertical_split" */;
 			buildPhases = (
-				15FC72700000000000000000 /* Sources */,
-				2FE099C00000000000000000 /* Frameworks */,
-				5E0064000000000000000000 /* Resources */,
+				36FCC2400000000000000000 /* Sources */,
+				2FF6AB500000000000000000 /* Frameworks */,
+				2EE2D4600000000000000000 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -102,62 +102,62 @@
 			);
 			name = "vertical_split";
 			productName = "vertical_split";
-			productReference = 313A9A000000000000000000 /* vertical_split.app */;
+			productReference = 2F08C4200000000000000000 /* vertical_split.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		34E038900000000000000000 /* Project object */ = {
+		25F977800000000000000000 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0930;
 			};
-			buildConfigurationList = 1BE1FD800000000000000000 /* Build configuration list for PBXProject "vertical_split" */;
+			buildConfigurationList = 15C533B00000000000000000 /* Build configuration list for PBXProject "vertical_split" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 2EE567C00000000000000000;
-			productRefGroup = B4478F000000000000000000 /* Products */;
+			mainGroup = 2FAC06200000000000000000;
+			productRefGroup = DD94C0000000000000000000 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				256840900000000000000000 /* vertical_split */,
+				7CA3B4000000000000000000 /* vertical_split */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5E0064000000000000000000 /* Resources */ = {
+		2EE2D4600000000000000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BFF2B800000000000000000 /* Assets.xcassets in Resources */,
-				3BBCC8100000000000000000 /* Entitlements.plist in Resources */,
-				26BB4FE00000000000000000 /* Info.plist in Resources */,
-				144498000000000000000000 /* Main.storyboard in Resources */,
+				315B68F00000000000000000 /* Assets.xcassets in Resources */,
+				1DEC36A00000000000000000 /* Entitlements.plist in Resources */,
+				37BD49900000000000000000 /* Info.plist in Resources */,
+				22E448500000000000000000 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		15FC72700000000000000000 /* Sources */ = {
+		36FCC2400000000000000000 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				269B43600000000000000000 /* AppDelegate.m in Sources */,
-				372054100000000000000000 /* ViewController.m in Sources */,
+				A3AE15000000000000000000 /* AppDelegate.m in Sources */,
+				3CA14B100000000000000000 /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3AF1E9800000000000000000 /* Debug */ = {
+		3EED19000000000000000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -213,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		128135B00000000000000000 /* Release */ = {
+		23655E100000000000000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Release;
 		};
-		268AE3B00000000000000000 /* Debug */ = {
+		3E904EE00000000000000000 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
@@ -278,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		1AE201800000000000000000 /* Release */ = {
+		3312C5F00000000000000000 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon";
@@ -296,25 +296,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1BE1FD800000000000000000 /* Build configuration list for PBXProject "vertical_split" */ = {
+		15C533B00000000000000000 /* Build configuration list for PBXProject "vertical_split" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3AF1E9800000000000000000 /* Debug */,
-				128135B00000000000000000 /* Release */,
+				3EED19000000000000000000 /* Debug */,
+				23655E100000000000000000 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		10AA45900000000000000000 /* Build configuration list for PBXNativeTarget "vertical_split" */ = {
+		61C159000000000000000000 /* Build configuration list for PBXNativeTarget "vertical_split" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				268AE3B00000000000000000 /* Debug */,
-				1AE201800000000000000000 /* Release */,
+				3E904EE00000000000000000 /* Debug */,
+				3312C5F00000000000000000 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 34E038900000000000000000 /* Project object */;
+	rootObject = 25F977800000000000000000 /* Project object */;
 }

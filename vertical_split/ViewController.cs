@@ -16,15 +16,14 @@ public partial class ViewController : NSViewController
 
         // Do any additional setup after loading the view.
     }
-
-    public override NSObject RepresentedObject
-    {
-        get => base.RepresentedObject;
-        set
-        {
-            base.RepresentedObject = value;
-
-            // Update the view, if already loaded.
-        }
-    }
 }
+
+
+
+
+
+
+
+
+
+

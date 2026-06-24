@@ -699,7 +699,7 @@
                         </connections>
                     </window>
                     <connections>
-                        <segue destination="h4p-IS-E5Q" kind="relationship" relationship="window.shadowedContentViewController" id="ieU-2H-Wzq"/>
+                        <segue destination="dcr-XR-BZY" kind="relationship" relationship="window.shadowedContentViewController" id="Txl-vt-jzC"/>
                     </connections>
                 </windowController>
                 <customObject id="Oky-zY-oP4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
@@ -867,7 +867,7 @@
                                     <font key="font" metaFont="system"/>
                                 </buttonCell>
                                 <connections>
-                                    <segue destination="VI8-ta-JFL" kind="popover" popoverAnchorView="xNu-BV-D1P" popoverBehavior="t" preferredEdge="maxY" id="IYz-yR-CpY"/>
+                                    <segue destination="VI8-ta-JFL" kind="popover" identifier="MyNamedSegue" popoverAnchorView="xNu-BV-D1P" popoverBehavior="t" preferredEdge="maxY" id="IYz-yR-CpY"/>
                                 </connections>
                             </button>
                             <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OLX-Lv-JJd">
@@ -933,9 +933,6 @@
             <point key="canvasLocation" x="-181" y="1822"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="ieU-2H-Wzq"/>
-    </inferredMetricsTieBreakers>
     <resources>
         <image name="Image1" width="579" height="530"/>
         <image name="Image2" width="309" height="247.5"/>
