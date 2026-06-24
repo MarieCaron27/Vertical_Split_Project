@@ -14,19 +14,27 @@
 		</data>
 		<key>Resources/Main.storyboardc/H7j-Yx-zQ4-view-w9t-38-WV1.nib</key>
 		<data>
-		+vJvFkorlzP/fkBudNvLDeHC8fY=
+		E3+trnAVW7H62RIGmld/ya8TY+U=
 		</data>
 		<key>Resources/Main.storyboardc/Info.plist</key>
 		<data>
-		NPsDT9LKnoFnA41iHed9jCEWS78=
+		QnnADZpPjqcUfjphODsG7Go3iPk=
 		</data>
 		<key>Resources/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		c/xAPkgFUwdQ2/owP45qrOKY9vQ=
+		H6gI8d79qcA2C6+P9Jb907pkwqQ=
+		</data>
+		<key>Resources/Main.storyboardc/NSViewController-VI8-ta-JFL.nib</key>
+		<data>
+		cMCgiLfDbTmJFTaFtpUBTTvDC34=
 		</data>
 		<key>Resources/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		4R7xm+N5509BYLQ0gOl5cb86Cfw=
+		4KqJMgwT8DIso7OyA/T7RAyA6Q4=
+		</data>
+		<key>Resources/Main.storyboardc/VI8-ta-JFL-view-jBY-cH-QDN.nib</key>
+		<data>
+		bU2uU91pOIkR+nnxE3DPmIhknGY=
 		</data>
 		<key>Resources/Main.storyboardc/oVr-JY-hSC-view-oWx-Ip-aGD.nib</key>
 		<data>
@@ -1359,14 +1367,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wuxEuFldWIGUzb97GoUGPVfAb93DEyPF1LLte3rzl9c=
+			fbUaISwgpzP+2ErVNnCJoQQiNP++BNQxlhlAPdjBEag=
 			</data>
 		</dict>
 		<key>MonoBundle/vertical_split.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKbR1rDnud3GEmsA2KpHVwPWDtJxFLqENYVqBkLn0QU=
+			GrQZ2/zxawTtIJVMF5Nc2t/8e38K6TnLqK4WM5fTETA=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
@@ -1387,28 +1395,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vS4zF1IWfooqY22QeTxgNiydAXeQeVfV9+13sfUc6L0=
+			M+JJtaXusVEv5NkHcrDxLXvnTRRuyI10cxD/CUMR7io=
 			</data>
 		</dict>
 		<key>Resources/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FeRtVeupgxufab4e0Bc/xbm3KrESQbu1S9xobyLFftU=
+			ssyygUmCTcr7BWDA5ICpEDxqhhyMe5a8NSD1h4OKhKM=
 			</data>
 		</dict>
 		<key>Resources/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ketujPreQoijRErYrean3icI1eMHJWitu9nq8WQ+IQ8=
+			ibYWx3CSrXUTzkXW7cIyMCAmpCgu1+m0RQ/rfTbHN/4=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/NSViewController-VI8-ta-JFL.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iW5HNaD20WkfXrxmLhNoCeJNGMTy7I1AXWvZv0dJXbg=
 			</data>
 		</dict>
 		<key>Resources/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QsljRjv4OTpM8Coi0GmILL8Av4LsqZDr8YvaCkzpjf0=
+			jPWJcEfxIXEUmSXzj8v3hanaC8INcGRjO3ODMV08qmE=
+			</data>
+		</dict>
+		<key>Resources/Main.storyboardc/VI8-ta-JFL-view-jBY-cH-QDN.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fHRG14MhMiT4MCyOf9iw4zuXnxk9mAvl+WlI9+4YisE=
 			</data>
 		</dict>
 		<key>Resources/Main.storyboardc/oVr-JY-hSC-view-oWx-Ip-aGD.nib</key>
