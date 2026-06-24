@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/marie/RiderProjects/vertical_split/vertical_split/bin/Debug/net10.0-macos/osx-arm64/vertical_split.app/Contents/MonoBundle/libhostfxr.dylib
