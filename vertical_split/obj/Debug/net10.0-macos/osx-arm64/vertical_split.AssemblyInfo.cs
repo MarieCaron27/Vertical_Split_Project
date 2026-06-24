@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vertical_split")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d233daaf4c1931cdefec2a4301738c658fa0f1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3935c03e87fe12ca772ad62e055c30644cedd47")]
 [assembly: System.Reflection.AssemblyProductAttribute("vertical_split")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vertical_split")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

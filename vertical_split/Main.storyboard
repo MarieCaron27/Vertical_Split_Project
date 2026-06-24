@@ -23,7 +23,11 @@
                                             </connections>
                                         </menuItem>
                                         <menuItem isSeparatorItem="YES" id="VOq-y0-SEH"/>
-                                        <menuItem title="Preferences…" keyEquivalent="," id="BOF-NM-1cW"/>
+                                        <menuItem title="Preferences…" keyEquivalent="," id="BOF-NM-1cW">
+                                            <connections>
+                                                <segue destination="h4p-IS-E5Q" kind="modal" id="Vsn-4O-Z7g"/>
+                                            </connections>
+                                        </menuItem>
                                         <menuItem isSeparatorItem="YES" id="wFC-TO-SCJ"/>
                                         <menuItem title="Services" id="NMo-om-nkz">
                                             <modifierMask key="keyEquivalentModifierMask"/>
@@ -694,13 +698,84 @@
                             <outlet property="delegate" destination="B8D-0N-5wS" id="98r-iN-zZc"/>
                         </connections>
                     </window>
-                    <connections>
-                        <segue destination="dcr-XR-BZY" kind="relationship" relationship="window.shadowedContentViewController" id="W77-bS-swE"/>
-                    </connections>
                 </windowController>
                 <customObject id="Oky-zY-oP4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="75" y="250"/>
+        </scene>
+        <!--Tab View Controller-->
+        <scene sceneID="z07-TG-ANv">
+            <objects>
+                <tabViewController selectedTabViewItemIndex="0" tabStyle="toolbar" id="h4p-IS-E5Q" sceneMemberID="viewController">
+                    <tabViewItems>
+                        <tabViewItem label="Image1" identifier="" id="xSQ-UF-RyP"/>
+                        <tabViewItem identifier="" id="fve-F0-T1W"/>
+                    </tabViewItems>
+                    <tabView key="tabView" type="noTabsNoBorder" id="cMG-Gs-sUU">
+                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <font key="font" metaFont="system"/>
+                        <connections>
+                            <outlet property="delegate" destination="h4p-IS-E5Q" id="h7P-Ot-qpt"/>
+                        </connections>
+                    </tabView>
+                    <connections>
+                        <outlet property="tabView" destination="cMG-Gs-sUU" id="8yf-q8-kXb"/>
+                        <segue destination="lkc-da-nty" kind="relationship" relationship="tabItems" id="zd0-X2-3UC"/>
+                        <segue destination="9cb-5O-HLg" kind="relationship" relationship="tabItems" id="55G-Xg-hcb"/>
+                    </connections>
+                </tabViewController>
+                <customObject id="ebC-dw-wcc" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="658" y="253"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="kU9-qX-6wb">
+            <objects>
+                <viewController id="lkc-da-nty" sceneMemberID="viewController">
+                    <view key="view" id="9zM-LT-0yj">
+                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <textField focusRingType="none" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dzA-Zn-IF8">
+                                <rect key="frame" x="177" y="138" width="108" height="24"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="bezel" title="First preference" drawsBackground="YES" id="4fF-pt-tAM">
+                                    <font key="font" usesAppearanceFont="YES"/>
+                                    <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                        </subviews>
+                    </view>
+                </viewController>
+                <customObject id="jSj-pR-du4" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1328" y="67"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="8OC-qT-C9R">
+            <objects>
+                <viewController id="9cb-5O-HLg" sceneMemberID="viewController">
+                    <view key="view" id="YpS-bc-Z45">
+                        <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <textField focusRingType="none" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kgn-5d-AGp">
+                                <rect key="frame" x="170" y="168" width="128" height="24"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="bezel" title="Second preference" drawsBackground="YES" id="H1t-dI-M4w">
+                                    <font key="font" usesAppearanceFont="YES"/>
+                                    <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                        </subviews>
+                    </view>
+                </viewController>
+                <customObject id="R3g-RW-nbt" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1328" y="439"/>
         </scene>
         <!--Split View Controller-->
         <scene sceneID="DZM-4I-kOk">

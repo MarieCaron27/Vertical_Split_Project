@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/lkc-da-nty-view-9zM-LT-0yj.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/lkc-da-nty-view-9zM-LT-0yj.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/9cb-5O-HLg-view-YpS-bc-Z45.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
+      <LogicalName>Main.storyboardc/9cb-5O-HLg-view-YpS-bc-Z45.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/MainMenu.nib">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
@@ -13,34 +25,16 @@
       <LogicalName>Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/NSViewController-VI8-ta-JFL.nib">
+    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/NSTabViewController-h4p-IS-E5Q.nib">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/NSViewController-VI8-ta-JFL.nib</LogicalName>
-      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/oVr-JY-hSC-view-oWx-Ip-aGD.nib">
-      <Optimize>false</Optimize>
-      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/oVr-JY-hSC-view-oWx-Ip-aGD.nib</LogicalName>
-      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/VI8-ta-JFL-view-jBY-cH-QDN.nib">
-      <Optimize>false</Optimize>
-      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/VI8-ta-JFL-view-jBY-cH-QDN.nib</LogicalName>
+      <LogicalName>Main.storyboardc/NSTabViewController-h4p-IS-E5Q.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/Info.plist">
       <Optimize>false</Optimize>
       <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
       <LogicalName>Main.storyboardc/Info.plist</LogicalName>
-      <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc/H7j-Yx-zQ4-view-w9t-38-WV1.nib">
-      <Optimize>false</Optimize>
-      <InterfaceDefinition>Main.storyboard</InterfaceDefinition>
-      <LogicalName>Main.storyboardc/H7j-Yx-zQ4-view-w9t-38-WV1.nib</LogicalName>
       <OriginalItemSpec>obj/Debug/net10.0-macos/osx-arm64/ibtool/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
   </ItemGroup>
